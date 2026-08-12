@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! Meu nome é Guilherme Miranda!
 
-<!--
-**kavyur/kavyur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ Estudante de Gestão da Tecnologia da Informação
++ Em evolução na programação e desenvolvimento de software
++ Explorando Inteligência Artificial, Machine Learning
++ Apaixonado por tecnologia e pelo universo da internet
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Minha jornada na tecnologia começou através da minha paixão pela internet e da curiosidade em entender como a tecnologia funciona.
+Atualmente, estou direcionando meus estudos para programação, desenvolvimento de software e Inteligência Artificial, buscando transformar conhecimento em projetos práticos e evoluir continuamente como profissional.
+
+## 🧠 Tecnologias e conhecimentos
+
+- CSS
+- HTML
+
+## 📚 Atualmente estudando
+
++ Python
++ Inteligência Artificial
