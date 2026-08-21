@@ -17,5 +17,5 @@ Atualmente, estou direcionando meus estudos para programação, desenvolvimento 
 
 ## 📚 Atualmente estudando
 
-+ Python
++ JavaScript
 + Inteligência Artificial
