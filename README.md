@@ -1,7 +1,7 @@
 # Olá! Meu nome é Guilherme Miranda!
 
 + Estudante de Gestão da Tecnologia da Informação
-+ Em evolução na programação e desenvolvimento de software
++ Em evolução na programação e desenvolvimento de website
 + Explorando Inteligência Artificial, Machine Learning
 + Apaixonado por tecnologia e pelo universo da internet
 
